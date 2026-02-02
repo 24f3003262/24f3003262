@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhraneel</h1>
-<h3 align="center">2nd Year B.Tech Student in Information Technology at Calcutta University | 5th Term BS in Data Science student at IIT - Madras | Aspiring ML Engineer | India</h3>
+<h3 align="center">2nd Year B.Tech Student in Information Technology at Calcutta University | 4th Term BS Student in Data Science student at IIT - Madras | Aspiring ML Engineer | India</h3>
 
 
 - 🔭 I’m currently working on a personalised Android AI **Lexis_Mobile_Assistant**
