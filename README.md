@@ -2,7 +2,8 @@
 <h3 align="center">2nd Year B.Tech Student in Information Technology at Calcutta University | 4th Term BS Student in Data Science student at IIT - Madras | Aspiring ML Engineer | India</h3>
 
 
-- 🔭 I’m currently working on a personalised Android AI **Lexis_Mobile_Assistant**
+- 🔭 I’m currently working on a personalised Android AI **Lexis_Mobile_Assistant** 
+- ❤️ I'm deeply interested in Machine learning in Python and programming in C
 - 💻 My fun projects are usually done in C such as [Mathematical Function Plotter](https://github.com/24f3003262/FunctionPlotter)
 - 📫 How to reach me **subhraneelbhadury.5162@gmail.com**
 - 📄 Know about my experiences on LinkedIn [subhraneel-bhadury-4644a327a](https://www.linkedin.com/in/subhraneel-bhadury-4644a327a)
