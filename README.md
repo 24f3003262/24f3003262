@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhraneel</h1>
 <h3 align="center">A second year engineering student and aspiring software developer from India</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=24f3003262&theme=radical&column=7" alt="24f3003262" />
-  </a>
-</p>
 
 - 🔭 I’m currently working on a personalised Android AI **Lexis_Mobile_Assistant**
 - 💻 My fun projects are usually done in C such as [Mathematical Function Plotter](https://github.com/24f3003262/FunctionPlotter)
