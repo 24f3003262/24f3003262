@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on a personalised Android AI **Lexis_Mobile_Assistant** 
 - ❤️ I'm deeply interested in Machine learning in Python and programming in C
 - 💻 My fun projects are usually done in C such as [Mathematical Function Plotter](https://github.com/24f3003262/FunctionPlotter)
+- 🌱 I’m currently learning JavaScript and Machine Learning in Python
 - 📫 How to reach me **subhraneelbhadury.5162@gmail.com**
 - 📄 Know about my experiences on LinkedIn [subhraneel-bhadury-4644a327a](https://www.linkedin.com/in/subhraneel-bhadury-4644a327a)
 - ⚡ Fun fact **You only learn some things about computers once you deeply work in C**
