@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhraneel</h1>
-<h3 align="center">A second year engineering student and aspiring software developer from India</h3>
+<h3 align="center">2nd Year B.Tech Student in Information Technology at Calcutta University | 5th Term BS in Data Science student at IIT - Madras | Aspiring ML Engineer | India</h3>
 
 
 - 🔭 I’m currently working on a personalised Android AI **Lexis_Mobile_Assistant**
@@ -42,7 +42,6 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=24f3003262&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=24f3003262&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=24f3003262&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=24f3003262&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
